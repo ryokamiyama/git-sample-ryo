@@ -2,7 +2,7 @@ package jp.co.rakus.git_sample_kamiyama;
 
 /**
  * Hello world!
- *
+ * @kamiyama
  */
 public class App 
 {
